@@ -1,0 +1,341 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header nav .flex-container{
+    width: 1111px;
+    margin: 0 auto;
+}
+header .flex-container{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    height: 1080px;
+}
+header ul {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    
+}
+header{
+    background: url(../images/adidas-kross.jpg);
+   
+}
+.logo a{
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+}
+header .me{
+    margin: 0px 40px;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-size: 16px;
+    color: #1b191e;
+    text-decoration: none;
+    margin-top: 47px;
+    
+}
+header .me:hover{
+color: blue;
+}
+header .ne{
+    margin-top: 21px}
+main .winter .winter-krosses{
+    width: 255px;
+  
+}
+main .container .winter{
+    width: 1110px;
+    margin: 0 auto;
+    display: flex;
+   
+    flex-wrap: wrap;
+    justify-content: center;
+}
+main .winter-krosses{
+    margin-top: 15px;
+    margin-left: 15px;
+    
+ 
+}
+main{
+    padding: 100px 0px;
+}
+main .h{
+    margin-bottom: 85px;
+}
+main .h{
+    display: flex;
+    margin-left: 406px;
+    margin-right: 1275px;
+}
+
+main  .e{
+    width: 255px;
+  
+}
+main .container .summer{
+    width: 1110px;
+    margin: 0 auto;
+    display: flex;
+   
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main .g{
+    display: flex;
+    margin-left: 406px;
+    margin-right: 1275px;
+margin-bottom: 85px;
+margin-top: 85px;}
+ 
+main .e{
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+main .h{
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 30px;
+    color: #2b6ccd;
+}
+main .g{
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 30px;
+    color: #2b6ccd;
+}
+main .container3{
+    width: 1110px;
+    display: flex;
+    justify-content: space-around;
+    
+    margin-left: 403px;
+  
+    margin-right: 403px;
+ 
+    
+}
+main .woman{
+    width: 443px;
+    margin-top: 146px;
+    margin-left: px;
+    margin-bottom: 92px;
+    margin-right: px;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-size: 18px;
+    color: #676767;
+}
+main .woman2{
+    width: 540px;
+  
+}
+main .main{
+    width: 0 auto;
+margin-top: 85px;
+ margin-bottom: 100px;
+    border: #dadada solid 1px;
+}
+main .woman p{
+    margin: 11px 0px;
+}
+main .div2{
+    width: 918px;
+    justify-content: center;
+    display: flex;
+    margin-left: 500px;
+    margin-bottom: 136px;
+    margin-right: 500px;
+}
+main .logo1{
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 30px;
+    color: #2b6ccd;
+}
+main .logo1{
+    display: flex;
+    margin-left: 406px;
+    margin-right: 1275px;
+margin-bottom: 85px;
+margin-top: 85px;}
+main .container4 .text{
+    display: flex;
+    flex-direction: column;
+}
+main .text{
+margin-left: 30px;
+}
+main .text .ter{
+    width: 200px;
+    height: 50px;
+    border: #2b6ccd solid 1px;
+    margin-top: 87px;
+}
+main  .me{
+    color: #2b6ccd;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-size: 16px;
+    justify-content: center;
+    display: flex;
+   margin: 17px 60px;
+}
+main .ter.me{
+    color: #484848;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'roboto';
+}
+main  .ter:hover{
+    background: #2b6ccd;
+   
+   
+}
+main .text{
+    height: 351px;
+}
+
+main .me:hover{
+    background: #2b6ccd;
+    color: white;
+}
+
+main .container4 .div2 .text .fe{
+    margin-left: px;
+    margin-top: 48px;
+    margin-bottom: 55px;
+    font-family: 'roboto';
+    font-size: 30px;
+    color: #2c6bcd;
+    font-weight: normal;
+}
+
+footer .footer-container {
+width: 1042px;
+margin: 0 auto;
+display: flex;
+justify-content: space-between;
+}
+footer ul li a{
+ list-style: none;
+ text-decoration: none;
+
+ 
+}
+footer ul li a:hover{
+    color: #2b6ccd;
+    background: white;
+}
+footer .br h3{
+    justify-content: center;
+    display: flex;
+    font-family: 'roboto';
+    font-size: 18px;
+    font-weight: normal;
+    color: #232323;
+}
+footer ul li a{
+    color: #2b6ccd;}
+    footer .br span:hover{
+        color: #2b6ccd;
+    }
+footer ul li a{
+    font-family: 'roboto';
+    font-weight: normal;
+    font-size: 18px;
+    color: #676767;
+}
+main .container6{
+    display: flex;
+    justify-content: center;
+}
+main fieldset{
+    display: flex;
+  
+  
+}
+main fieldset .name{
+    margin-top: 14px;
+    margin-bottom: 14px;
+    text-decoration: underline;
+}
+main fieldset .tel{
+    margin-top: 14px;
+    margin-bottom: 14px;
+    text-decoration: underline;
+}
+main fieldset .mail{
+    margin-top: 14px;
+    margin-bottom: 14px;
+    text-decoration: underline;
+}
+main  .f {
+    display: flex;
+    justify-content: center;
+    color: #f8f8f8;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'roboto';
+display: flex;
+justify-content: center;
+
+
+}
+main .f{
+    width: 370px;
+    height: 40px;
+    background: #2b6ccd;
+}
+main .container7{
+    width: 350px;
+    margin-right: 219px;
+}
+main .container7 h3{
+    margin-bottom: 52px;
+    margin-top: 100px;
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 30px;
+    color: #2b6ccd;
+}
+
+main .container5{
+    background-color: #faf4f4;
+}
+main .container8 h3{
+    font-family: 'roboto';
+    font-weight: bold;
+    font-size: 30px;
+    color: #2b6ccd;
+    margin-bottom: 52px;
+    margin-top: 100px;
+}
+main .container8 .p{
+    margin-top: 33px;
+}
+main .container8 p{
+    font-family: 'roboto';
+    font-weight: normal;
+    font-size: 16px;
+    color: #484848;
+}
+main .container7 .e{
+    height: 21px;
+}
+main .container7 textarea{
+    padding: 0px 15px 0px 0px;
+}
+footer .footer-container{
+    margin-top: 100px;
+}
+footer .br{
+    padding: 56px 0px 50px 0px;
+}
